@@ -21,8 +21,8 @@ User Interaction: Allows users to confirm printing or discard the image.
               cd smart-printer-face-detection
     
         2. cd smart-printer-face-detection
-            Install the required Python packages using pip:
-            pip install opencv-python numpy pillow pywin32
+              Install the required Python packages using pip:
+              pip install opencv-python numpy pillow pywin32
     
         3. Place a footer.png image in the project directory. This image will be concatenated with the detected face image before printing.
 
