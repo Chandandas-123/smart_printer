@@ -17,7 +17,7 @@ User Interaction: Allows users to confirm printing or discard the image.
 ## Setup Instructions
 
         1. Clone this repository to your local machine:
-              git clone https://github.com/your-username/smart-printer-face-detection.git
+              git clone https://github.com/chandandass/smart_printer.git
               cd smart-printer-face-detection
     
         2. cd smart-printer-face-detection
