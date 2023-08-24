@@ -15,7 +15,8 @@ User Interaction: Allows users to confirm printing or discard the image.
 * PIL (Python Imaging Library)
 
 ## Setup Instructions
- 1. Clone this repository to your local machine:
+
+        1. Clone this repository to your local machine:
               git clone https://github.com/your-username/smart-printer-face-detection.git
               cd smart-printer-face-detection
     
@@ -27,7 +28,7 @@ User Interaction: Allows users to confirm printing or discard the image.
 
 
 ## Usage
-        1. Run the Python script using:
+       1. Run the Python script using:
              python smart_printer_face_detection.py
        2. The webcam feed will open, and the script will detect faces in real-time. It will draw rectangles around the detected faces.
 
