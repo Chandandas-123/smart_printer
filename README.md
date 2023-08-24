@@ -8,7 +8,7 @@ Image Concatenation: Concatenates the captured image with a footer image to crea
 Smart Printing: Prints the final concatenated image using the default printer.
 User Interaction: Allows users to confirm printing or discard the image.
 ## Prerequisites 
-Markup: * Python 3.x
+* Python 3.x
 * OpenCV (cv2)
 * win32print and win32ui libraries
 * numpy
