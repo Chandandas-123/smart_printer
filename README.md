@@ -15,18 +15,20 @@ User Interaction: Allows users to confirm printing or discard the image.
 * PIL (Python Imaging Library)
 
 ## Setup Instructions
- Markup : 1. Clone this repository to your local machine:
+ 1. Clone this repository to your local machine:
               git clone https://github.com/your-username/smart-printer-face-detection.git
               cd smart-printer-face-detection
+    
         2. cd smart-printer-face-detection
             Install the required Python packages using pip:
             pip install opencv-python numpy pillow pywin32
+    
         3. Place a footer.png image in the project directory. This image will be concatenated with the detected face image before printing.
 
 
 ## Usage
-Markup: 1. Run the Python script using:
-        python smart_printer_face_detection.py
+        1. Run the Python script using:
+             python smart_printer_face_detection.py
        2. The webcam feed will open, and the script will detect faces in real-time. It will draw rectangles around the detected faces.
 
        3. Once a face is detected, the script will capture the image and concatenate it with the footer image.
